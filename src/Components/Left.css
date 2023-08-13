@@ -1,0 +1,46 @@
+.container{
+    box-sizing: border-box;
+    height: 750px;
+    width: 300px;
+    background-color:#caf0f8;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 30px;
+    
+    
+}
+.head{
+  
+  gap: 1rem;
+}
+
+.head-1{
+  font-size: large;
+  font-weight: bold;
+  gap: 40px; 
+  display: flex;
+  justify-content: space-between;
+}
+.head-2{
+  font-weight: lighter;
+}
+.break{
+  display: flex;
+  justify-content: space-between;
+}
+.head-3{
+  text-align: center;
+  
+}
+.degree{
+  font-size:xx-large;
+  height: 15px;
+}
+.img{
+  width: 290px;
+  height: 490px ;
+  margin: 0;
+  padding: 0;
+  border-radius: 10px;
+  overflow: hidden;
+}
